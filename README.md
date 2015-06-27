@@ -1,3 +1,3 @@
 Test Readme
 
-<blockquote> lorem ipsum sic dolet stuff testing and writing filler text </blockquote>
+<blockquote> Now I have 1 file, a lovely assembly program </blockquote>
